@@ -8,37 +8,9 @@ body {
   min-height: 100vh;
 }
 
-/* Header styles */
-header {
-  text-align: center;
-  padding: 20px 0;
-  color: #fff;
-}
-
-header h1 {
-  font-size: 2.5rem;
-  margin: 0;
-  font-weight: 600;
-}
-
-header p {
-  font-size: 1.1rem;
-  margin: 10px 0 0;
-  opacity: 0.9;
-}
-
 /* Main content */
 main {
-  padding: 0 20px 40px;
-}
-
-/* Footer styles */
-footer {
-  text-align: center;
   padding: 20px;
-  color: #fff;
-  opacity: 0.7;
-  font-size: 0.9rem;
 }
 
 /* card */
@@ -184,14 +156,6 @@ footer {
     width: 95%;
   }
 
-  header h1 {
-    font-size: 2.2rem;
-  }
-
-  header p {
-    font-size: 1rem;
-  }
-
   .weather-icon {
     width: 150px;
   }
@@ -215,14 +179,6 @@ footer {
     margin: 50px auto 0;
     padding: 30px 25px;
     width: 95%;
-  }
-
-  header h1 {
-    font-size: 2rem;
-  }
-
-  header p {
-    font-size: 0.95rem;
   }
 
   .weather-icon {
@@ -254,18 +210,6 @@ footer {
     margin: 30px auto 0;
     padding: 25px 20px;
     width: 98%;
-  }
-
-  header {
-    padding: 15px 0;
-  }
-
-  header h1 {
-    font-size: 1.8rem;
-  }
-
-  header p {
-    font-size: 0.9rem;
   }
 
   .search input {
@@ -319,10 +263,6 @@ footer {
     padding: 20px 15px;
     width: 100%;
     border-radius: 15px;
-  }
-
-  header h1 {
-    font-size: 1.6rem;
   }
 
   .search input {
